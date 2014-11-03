@@ -1,0 +1,27 @@
+#-ELA
+Para tratar todos os casos que nos propusemos, tivemos que recorrer a várias palavras existentes no vocabulário português, adicionando criativamente sufixos às determinadas palavras.
+As três palavras escolhidas para serem tratadas foram:
+- almocela -> almoço/a;
+- branquela -> branco/a;
+- picadela -> picado/a.
+
+Mais tarde, achámos importante ter ainda em conta, no transdutor, outros casos. Sendo difícil por vezes encontrar palavras que se adequassem ao queríamos testar, inventámos algumas pois achámos serem importantes casos a analisar e tratar.
+Como por exemplo:
+- chouricela -> chouriço/a (idêntico ao caso “almocela”);
+- reela -> reo/a (primeira letra do sufixo repetida antes de este começar);
+- relela -> relo/rela (parte do sufixo no meio da palavra sufixada);
+- releio -> releio (parte do sufixo no meio da palavra não sufixada);
+- pincel -> pincel (parte do sufixo no meio da palavra não sufixada).
+
+#-ANZIL
+Para o transdutor anzil não encontrámos muitas palavras, como tal também não conseguimos encontrar casos particulares. E as poucas palavras que pudémos tratar são, de certa maneira,
+inventadas. Exemplo:
+As três palavras escolhidas para serem tratadas foram:
+-corpanzil -> corpo/a;
+-penanzil -> perno/a;
+-banananzil -> banano/a.
+
+Outros casos;
+- amoranzil -> amoro/a (idêndito a corpanzil);
+- canil -> canil (parte do sufixo no meio da palavra não sufixada).
+
