@@ -1,0 +1,3 @@
+Estes ficheiros foram apenas usados para testar do transdutor.
+
+As palavras de input estão nas pastas sufixo-ela e sufixo-anzil.
